@@ -1,5 +1,5 @@
 ## Daily Learning
-
+✍️ 매일매일 배운 개발 지식들을 정리합니다. 
 
 | 날짜 | Description |
 | --- | --- |
@@ -17,7 +17,6 @@
 | 2022/03/22 | [Key-value Oberving이란? 장점과 단점](https://bumgeunsong.notion.site/9-Key-Value-Observing-2f7d0c1a58a34de39a6ff3b3e89ebbcd) |
 | 2022/03/21 | [Responder Chain](https://bumgeunsong.notion.site/8-Responder-Chain-16ddc732bda34e0cb95cfbc9006eae6c) |
 | 2022/03/20 | [iOS 테이블뷰 self-sizing cell](https://bumgeunsong.notion.site/iOS-Self-sizing-cell-e4f1c10dd37042baac90ba0acbb0584b) |
-https://bumgeunsong.notion.site/Deep-dive-b1b755ceb2a1496d85b809387f861bca
 | 2022/03/19 | [관심사의 분리, 응집도와 결합도, 레이어 아키텍처](https://bumgeunsong.notion.site/Deep-dive-b1b755ceb2a1496d85b809387f861bca) |
 | 2022/03/17 | [iOS 테이블 뷰 (UI table view)의 모든 것](https://bumgeunsong.notion.site/iOS-UI-table-view-1aacb68d5639404c99915b2371deea53) |
 | 2022/03/16 | [효과적인 프로그래머의 12가지 습관](https://bumgeunsong.notion.site/12-b04121c1d21f4583a0ec86652de12285) |
