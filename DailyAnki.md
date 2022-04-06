@@ -1,7 +1,16 @@
 ## Daily Anki
 
+[Anki](https://apps.ankiweb.net/)는 주기적인 복습을 도와주는 유용한 도구입니다!
+
+개발을 배우면서 얻었던 지식들을 장기기억으로 유지하기 위해 매일 Anki를 쓰고 있습니다. (하루 15개 목표)
+
+질문 카드를 만들어서 저장해두면 시간이 지날 때마다 망각 곡선 그래프에 맞춰서 띄워줍니다.
+
+질문카드는 이렇게 생겼습니다.
+![Screen Shot 2022-04-06 at 11 27 59 PM](https://user-images.githubusercontent.com/17468015/161998280-f51578b8-e360-4bda-a902-8809078c92dc.png)
 
 
+## 기록 
 일자             |  Screenshot
 :-------------------------:|:-------------------------:
 2022/04/06 | <img src="https://user-images.githubusercontent.com/17468015/161995606-2bc0908f-863d-4fdf-b037-d4526160b1e9.png" width="400">
