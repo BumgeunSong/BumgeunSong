@@ -23,6 +23,16 @@
 | 2022/03/17 | [iOS 테이블 뷰 (UI table view)의 모든 것](https://bumgeunsong.notion.site/iOS-UI-table-view-1aacb68d5639404c99915b2371deea53) |
 | 2022/03/16 | [효과적인 프로그래머의 12가지 습관](https://bumgeunsong.notion.site/12-b04121c1d21f4583a0ec86652de12285) |
 | 2022/03/15 | [Swift의 강한 타이핑, 정적 타이핑. 여기서 오는 장단점은?](https://bumgeunsong.notion.site/Swift-51af40e5251b47fcabed22b16adf3255) |
-| 2022/03/00 | [-](url) |
-
+| 2022/03/14 | [객체간 커뮤니케이션: Delegation과 Notification](https://bumgeunsong.notion.site/7-Delegate-Notification-bbe5a03ee5544d2e975f598f641428f9) |
+| 2022/03/13 | [iOS의 상태 관리](https://bumgeunsong.notion.site/iOS-State-2443c5ed66164d7babc823cd11e645f4) |
+| 2022/03/12 | [MVC 창시자가 말하는 MVC의 본질](https://velog.io/@eddy_song/mvc) |
+| 2022/03/10 | [UI와 데이터를 분리하자](https://bumgeunsong.notion.site/UI-MVC-063dac9f20b54a859a1749ea275b93d5) |
+| 2022/03/08 | [인스턴스 메서드, 타입 메서드란? 언제 쓸 수 있는가?](https://bumgeunsong.notion.site/6-e40eb2a36a5f4aeca064c2baae2f85edl) |
+| 2022/03/07 | [Swift의 Convenience init이란?](https://bumgeunsong.notion.site/4-Swift-Convenience-Init-27a96a10fc5e4ecfb02fa5db9a4ba951) |
+| 2022/03/06 | [초등학생에게 Git branch와 merge를 설명해본다면?](https://velog.io/@eddy_song/git-3levels-4) |
+| 2022/03/04 | [Git branch, merge, rebase](https://bumgeunsong.notion.site/Git-2-2f8de714937845e78121e1821fc5839d) |
+| 2022/03/03 | [초등학생에게 Git을 설명해본다면?](https://velog.io/@eddy_song/git-3levels-1) |
+| 2022/03/02 | [Swift의 Copy-on-write는 어떻게 동작하는가?](https://bumgeunsong.notion.site/3-Copy-on-write-eabe1ec993564cb2b538a1c7d179164f) |
+| 2022/03/01 | [Swift Class의 성능을 높일 수 있는 방법: Dynamic/Static dispatch](https://bumgeunsong.notion.site/2-Swift-Class-1004995efeeb4e259fe24f7476cee72f) |
+| 2022/03/ | [](url) |
 
