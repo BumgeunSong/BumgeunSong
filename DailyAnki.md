@@ -7,12 +7,14 @@
 질문 카드를 만들어서 저장해두면 시간이 지날 때마다 망각 곡선 그래프에 맞춰서 띄워줍니다.
 
 질문카드는 이렇게 생겼습니다.
-![Screen Shot 2022-04-06 at 11 27 59 PM](https://user-images.githubusercontent.com/17468015/161998280-f51578b8-e360-4bda-a902-8809078c92dc.png)
+
+<img src="https://user-images.githubusercontent.com/17468015/161998280-f51578b8-e360-4bda-a902-8809078c92dc.png" width="500">
 
 
 ## 기록 
 일자             |  Screenshot
 :-------------------------:|:-------------------------:
+2022/04/08 | <img src="https://user-images.githubusercontent.com/17468015/162386137-6915c365-9cc0-41fb-8d52-c395c608d5e7.png" width="400">
 2022/04/07 | <img src="https://user-images.githubusercontent.com/17468015/162214415-a05c53d9-295f-4b4e-bdec-d5de854d0110.png" width="400">
 2022/04/06 | <img src="https://user-images.githubusercontent.com/17468015/161995606-2bc0908f-863d-4fdf-b037-d4526160b1e9.png" width="400">
 2022/04/05 | <img src="https://user-images.githubusercontent.com/17468015/161777179-5def0c7d-fff3-4f31-a336-f14082a663de.png" width="400">
