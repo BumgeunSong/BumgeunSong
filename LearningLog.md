@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/04/10 | [동시성 프로그래밍에서 가장 헷갈리는 개념들(동기/비동기, 직렬/동시, 동시/병렬](https://bumgeunsong.notion.site/e9c80dc7289b480d9189f18b9b9d1d41) |
 | 2022/04/08 | [Swift Value type과 Reference type을 조합해 활용하는 패턴](https://bumgeunsong.notion.site/f4841348110949238c206f7dc73ee735) |
 | 2022/04/07 | [프로토콜, 프로토콜 as a type, associated types, 프로토콜 Extensions](https://bumgeunsong.notion.site/Protocol-Protocol-as-a-type-associated-types-Protocol-Extensions-dd056eba0f5f4dc48e67e6b4c19c957b) |
 | 2022/04/06 | [JSON - 모델 변환을 위한 Swift Codable의 모든 것](https://bumgeunsong.notion.site/Swift-Codable-fd86231869594c37b5e1503947256154) |
