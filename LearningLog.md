@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/04/13 | [Generic Programming이란? Swift Generic의 활용](https://bumgeunsong.notion.site/Generic-Swift-Generic-b5e7aae366d24594861e9cb33755cd58)
 | 2022/04/12 | [프로세스와 스레드, 동기화 문제, 경쟁 상태, 세마포어](https://bumgeunsong.notion.site/d245018f7d6b4812a6e7ecc0da668288)
 | 2022/04/11 | [Swift Extensions 제대로 활용하기](https://bumgeunsong.notion.site/Swift-Extensions-802e25567288428d9ff56a29f295eba0)
 | 2022/04/10 | [동시성 프로그래밍에서 가장 헷갈리는 개념들(동기/비동기, 직렬/동시, 동시/병렬)](https://bumgeunsong.notion.site/e9c80dc7289b480d9189f18b9b9d1d41) |
