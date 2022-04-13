@@ -39,13 +39,13 @@
 | 2022/03/02 | [Swift의 Copy-on-write는 어떻게 동작하는가?](https://bumgeunsong.notion.site/3-Copy-on-write-eabe1ec993564cb2b538a1c7d179164f) |
 | 2022/03/01 | [Swift Class의 성능을 높일 수 있는 방법: Dynamic/Static dispatch](https://bumgeunsong.notion.site/2-Swift-Class-1004995efeeb4e259fe24f7476cee72f) |
 | 2022/02/28 | [Struct, Class, Enum](https://bumgeunsong.notion.site/1-Struct-Class-Enum-4106a4a065c54ad1b3c0a604edc6c672) |
-| 2022/03/23 | [초등학생, 대학생, 개발자에게 Git을 설명해본다면? 1 Concept in 3 levels](https://bumgeunsong.notion.site/Git-33f5715d7f0c4111866b3c76bc8167c2) |
-| 2022/03/21 | [Git pro book: git의 기초와 명령어](https://bumgeunsong.notion.site/2-Git-9369bb257d3a431787c02459fa0a1972) |
-| 2022/03/20 | [Git pro book: amend, cherry-pick, reset](https://bumgeunsong.notion.site/Git-amend-cherry-pick-reset-2c4e0d42010f46758b63cd4450b759cb) |
-| 2022/03/18 | [10X 개발자와 주니어 개발자의 3가지 차이점 (번역)](https://velog.io/@eddy_song/10X-engineer) |
-| 2022/03/17 | [Git workflow, Git 협업 과정 이해하기](https://bumgeunsong.notion.site/Understanding-Git-Collaboration-2691ff5a357c4ce4adc79e999cacff8c) |
-| 2022/03/15 | [오토레이아웃을 쉽고 빠르게, Stack View](https://velog.io/@eddy_song/stack-view) |
-| 2022/03/00 | [](url) |
+| 2022/02/23 | [초등학생, 대학생, 개발자에게 Git을 설명해본다면? 1 Concept in 3 levels](https://bumgeunsong.notion.site/Git-33f5715d7f0c4111866b3c76bc8167c2) |
+| 2022/02/21 | [Git pro book: git의 기초와 명령어](https://bumgeunsong.notion.site/2-Git-9369bb257d3a431787c02459fa0a1972) |
+| 2022/02/20 | [Git pro book: amend, cherry-pick, reset](https://bumgeunsong.notion.site/Git-amend-cherry-pick-reset-2c4e0d42010f46758b63cd4450b759cb) |
+| 2022/02/18 | [10X 개발자와 주니어 개발자의 3가지 차이점 (번역)](https://velog.io/@eddy_song/10X-engineer) |
+| 2022/02/17 | [Git workflow, Git 협업 과정 이해하기](https://bumgeunsong.notion.site/Understanding-Git-Collaboration-2691ff5a357c4ce4adc79e999cacff8c) |
+| 2022/02/15 | [오토레이아웃을 쉽고 빠르게, Stack View](https://velog.io/@eddy_song/stack-view) |
+| 2022/02/00 | [](url) |
 
 
 
