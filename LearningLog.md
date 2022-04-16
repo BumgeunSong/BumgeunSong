@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/04/16 | [최소 신장 트리(Minimum spanning tree), 합집합 찾기, 크루스칼 알고리즘](https://bumgeunsong.notion.site/0703f7294c194bb1a9aedbceb0da8f36)
 | 2022/04/14 | [자료구조: Array, Linked list, Hash table, Tree](https://bumgeunsong.notion.site/a8998d1f463a485781f0ed1557429328)
 | 2022/04/13 | [Generic Programming이란? Swift Generic의 활용](https://bumgeunsong.notion.site/Generic-Swift-Generic-b5e7aae366d24594861e9cb33755cd58)
 | 2022/04/12 | [프로세스와 스레드, 동기화 문제, 경쟁 상태, 세마포어](https://bumgeunsong.notion.site/d245018f7d6b4812a6e7ecc0da668288)
