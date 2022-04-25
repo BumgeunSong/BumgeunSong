@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/04/25 | [MVC의 문제점, MVVM 아키텍처의 장점과 단점](https://bumgeunsong.notion.site/Swift-MVVM-967b71dbe2b74f95beaeaf705210f2ce)
 | 2022/04/24 | [도메인 로직, 비즈니스 로직이 뭐야?](https://bumgeunsong.notion.site/Domain-Logic-Business-Logic-0dcd257fb52d491abf94b183d271ebb2)
 | 2022/04/19 | [조합(Combination), 순열 알고리즘](https://bumgeunsong.notion.site/Combination-6bea0aa86247476bb1c59612a5daaa1a)
 | 2022/04/18 | [Unit testing & Test-driven Development](https://bumgeunsong.notion.site/Unit-testing-Test-driven-Development-95ed9a877a424b91bde437da2d347610)
