@@ -3,7 +3,8 @@
 
 | 날짜 | Description |
 | --- | --- |
-| 2022/04/25 | [Hash Table 심화: 구현, 리사이징, 충돌 해결](https://bumgeunsong.notion.site/Hash-Table-1154b8fdd4e746c2b9484bea26ffd3bc)
+| 2022/04/27 | [Slicing Swift Collections: ArraySlice, Substring](https://bumgeunsong.notion.site/Slicing-Swift-Collections-ArraySlice-Substring-ab0d6d77f9f447abb6980aec9042c518)
+| 2022/04/26 | [Hash Table 심화: 구현, 리사이징, 충돌 해결](https://bumgeunsong.notion.site/Hash-Table-1154b8fdd4e746c2b9484bea26ffd3bc)
 | 2022/04/25 | [MVC의 문제점, MVVM 아키텍처의 장점과 단점](https://bumgeunsong.notion.site/Swift-MVVM-967b71dbe2b74f95beaeaf705210f2ce)
 | 2022/04/24 | [도메인 로직, 비즈니스 로직이 뭐야?](https://bumgeunsong.notion.site/Domain-Logic-Business-Logic-0dcd257fb52d491abf94b183d271ebb2)
 | 2022/04/19 | [조합(Combination), 순열 알고리즘](https://bumgeunsong.notion.site/Combination-6bea0aa86247476bb1c59612a5daaa1a)
