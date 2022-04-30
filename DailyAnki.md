@@ -14,6 +14,7 @@
 ## 기록 
 일자             |  Screenshot
 :-------------------------:|:-------------------------:
+2022/04/30 | <img src="https://user-images.githubusercontent.com/17468015/166110458-0bcbbdcd-1888-40b5-a7fb-f3cff1208e1b.png" width="400">
 2022/04/28 | <img src="https://user-images.githubusercontent.com/17468015/165550782-7f9df4bb-a3da-4388-9b2f-19f6ed5626db.png" width="400">
 2022/04/27 | <img src="https://user-images.githubusercontent.com/17468015/165331451-604ace8d-9776-4453-b270-f1238a4c21dd.png" width="400">
 2022/04/26 | <img src="https://user-images.githubusercontent.com/17468015/165117187-06f692ff-74c6-4dd1-a5e9-858ab32b1181.png" width="400">
