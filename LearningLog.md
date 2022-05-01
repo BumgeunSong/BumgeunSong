@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/01 | [Massive View Controller 해체하기](https://bumgeunsong.notion.site/Massive-View-Controller-f818b0ca0d754f6385a32c0d0638b135)
 | 2022/04/30 | [PNG와 JPG의 차이는? 데이터 압축 알고리즘](https://bumgeunsong.notion.site/PNG-JPG-9aa1bc052f024de4a2203292282d9420)
 | 2022/04/27 | [Slicing Swift Collections: ArraySlice, Substring](https://bumgeunsong.notion.site/Slicing-Swift-Collections-ArraySlice-Substring-ab0d6d77f9f447abb6980aec9042c518)
 | 2022/04/26 | [Hash Table 심화: 구현, 리사이징, 충돌 해결](https://bumgeunsong.notion.site/Hash-Table-1154b8fdd4e746c2b9484bea26ffd3bc)
