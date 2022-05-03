@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/03 | [Xcode 정복하기: Workspace, Project, Target, Build Setting, Scheme 등](https://bumgeunsong.notion.site/Apple-MVC-MVC-MVP-MVVM-VIPER-361e0eae1a894030977409cf22bdb618)
 | 2022/05/02 | [Apple MVC의 정체: MVC, MVP, MVVM, VIPER 개념](https://bumgeunsong.notion.site/Apple-MVC-MVC-MVP-MVVM-VIPER-361e0eae1a894030977409cf22bdb618)
 | 2022/05/01 | [Massive View Controller 해체하기](https://bumgeunsong.notion.site/Massive-View-Controller-f818b0ca0d754f6385a32c0d0638b135)
 | 2022/04/30 | [PNG와 JPG의 차이는? 데이터 압축 알고리즘](https://bumgeunsong.notion.site/PNG-JPG-9aa1bc052f024de4a2203292282d9420)
