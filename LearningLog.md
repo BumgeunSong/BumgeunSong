@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/03 | [UI를 반드시 메인 스레드에서 업데이트 해야 하는 이유는?](https://bumgeunsong.notion.site/UI-c273e23d8d6d46e999b04ad6a67c4112)
 | 2022/05/03 | [Xcode 정복하기: Workspace, Project, Target, Build Setting, Scheme 등](https://bumgeunsong.notion.site/Apple-MVC-MVC-MVP-MVVM-VIPER-361e0eae1a894030977409cf22bdb618)
 | 2022/05/02 | [Apple MVC의 정체: MVC, MVP, MVVM, VIPER 개념](https://bumgeunsong.notion.site/Apple-MVC-MVC-MVP-MVVM-VIPER-361e0eae1a894030977409cf22bdb618)
 | 2022/05/01 | [Massive View Controller 해체하기](https://bumgeunsong.notion.site/Massive-View-Controller-f818b0ca0d754f6385a32c0d0638b135)
