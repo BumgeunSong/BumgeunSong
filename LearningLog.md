@@ -3,7 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
-| 2022/05/06 | [iOS Unit testing by Example | Testing technique](https://bumgeunsong.notion.site/iOS-Unit-testing-by-Example-d2b5fb9bdd014fc9b131e15a1f4e12b0)
+| 2022/05/06 | [iOS Unit testing by Example / Testing technique](https://bumgeunsong.notion.site/iOS-Unit-testing-by-Example-d2b5fb9bdd014fc9b131e15a1f4e12b0)
 | 2022/05/05 | [단위 테스트는 왜 해야하는가? 단위 테스트의 기준, 조건, 의존성 분리, 용어 등](https://bumgeunsong.notion.site/6d87df38f57f495bae266d8753025abe)
 | 2022/05/04 | [UI를 반드시 메인 스레드에서 업데이트 해야 하는 이유는?](https://bumgeunsong.notion.site/UI-c273e23d8d6d46e999b04ad6a67c4112)
 | 2022/05/03 | [Xcode 정복하기: Workspace, Project, Target, Build Setting, Scheme 등](https://bumgeunsong.notion.site/Apple-MVC-MVC-MVP-MVVM-VIPER-361e0eae1a894030977409cf22bdb618)
