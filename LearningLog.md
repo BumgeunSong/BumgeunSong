@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/11 | [너의 MVC는 나의 MVC와 다르다](https://velog.io/@eddy_song/ios-mvc)
 | 2022/05/09 | [Swift 클로져, 캡처 리스트, 오토클로져](https://bumgeunsong.notion.site/Swift-a6b9918c179d4184a47e2a3892fc35a7)
 | 2022/05/07 | [Run Loop와 View Update Cycle, 그리고 관련 메서드](https://bumgeunsong.notion.site/Run-Loop-Update-Cycle-aa2ddd6173bb4e118c088bef435defaa)
 | 2022/05/06 | [iOS Unit testing by Example / Testing technique](https://bumgeunsong.notion.site/iOS-Unit-testing-by-Example-d2b5fb9bdd014fc9b131e15a1f4e12b0)
