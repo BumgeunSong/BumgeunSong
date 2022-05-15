@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/15 | [자료구조의 실생활 적용: 어떤 자료 구조가 최선일까?](https://bumgeunsong.notion.site/fd3b002a71ee48479999260869d89f92)
 | 2022/05/12 | [Human Interface Guidlines 탐구하기](https://bumgeunsong.notion.site/Human-Interface-Guidelines-e46b633d547444d4b8e400e02211b716)
 | 2022/05/11 | [너의 MVC는 나의 MVC와 다르다](https://velog.io/@eddy_song/ios-mvc)
 | 2022/05/09 | [Swift 클로져, 캡처 리스트, 오토클로져](https://bumgeunsong.notion.site/Swift-a6b9918c179d4184a47e2a3892fc35a7)
