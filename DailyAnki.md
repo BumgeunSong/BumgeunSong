@@ -12,8 +12,13 @@
 
 
 ## 기록 
-일자             |  Screenshot
+
+<details>
+  <summary>5월</summary>
+  
+  일자             |  Screenshot
 :-------------------------:|:-------------------------:
+2022/05/16 | <img src="https://user-images.githubusercontent.com/17468015/168556167-6939ab10-ce76-49ff-a060-c33b1c932aac.png" width="400">
 2022/05/15 | <img src="https://user-images.githubusercontent.com/17468015/168454185-0e425c64-8d33-48cd-b5f3-fed8525c34d0.png" width="400">
 2022/05/14 | <img src="https://user-images.githubusercontent.com/17468015/168419865-7e4164d6-f723-436b-a8b7-22d2dad3663b.png" width="400">
 2022/05/12 | <img src="https://user-images.githubusercontent.com/17468015/168088037-fd5f61be-aeb3-4125-9791-b5261de0db2f.png" width="400">
@@ -25,6 +30,13 @@
 2022/05/03 | <img src="https://user-images.githubusercontent.com/17468015/166469173-f7db0775-4dc5-4c87-9f53-0f6cd0f39657.png" width="400">
 2022/05/02 | <img src="https://user-images.githubusercontent.com/17468015/166231630-f66c007b-a998-41fd-a6c1-2478b2b07986.png" width="400">
 2022/05/01 | <img src="https://user-images.githubusercontent.com/17468015/166149517-b5aa8e22-969d-48c3-b5db-5a3871493c5f.png" width="400">
+  
+</details>
+<details>
+  <summary>4월</summary>
+  
+  일자             |  Screenshot
+:-------------------------:|:-------------------------:
 2022/04/30 | <img src="https://user-images.githubusercontent.com/17468015/166110458-0bcbbdcd-1888-40b5-a7fb-f3cff1208e1b.png" width="400">
 2022/04/28 | <img src="https://user-images.githubusercontent.com/17468015/165550782-7f9df4bb-a3da-4388-9b2f-19f6ed5626db.png" width="400">
 2022/04/27 | <img src="https://user-images.githubusercontent.com/17468015/165331451-604ace8d-9776-4453-b270-f1238a4c21dd.png" width="400">
@@ -45,6 +57,13 @@
 2022/04/05 | <img src="https://user-images.githubusercontent.com/17468015/161777179-5def0c7d-fff3-4f31-a336-f14082a663de.png" width="400">
 2022/04/03 | <img src="https://user-images.githubusercontent.com/17468015/161412783-00dd444c-8660-43cc-b064-1cced035ca79.png" width="400">
 2022/04/01 | <img src="https://user-images.githubusercontent.com/17468015/161229171-c1e4db5c-7425-4638-98d4-425d343c2b75.png" width="400">
+</details>
+
+<details>
+  <summary>3월</summary>
+  
+  일자             |  Screenshot
+:-------------------------:|:-------------------------:
 2022/03/31 | <img src="https://user-images.githubusercontent.com/17468015/161068520-fbad3a0d-7406-409c-8730-7619dc2e1ce9.png" width="400">
 2022/03/30 | <img src="https://user-images.githubusercontent.com/17468015/160868630-99beccc5-0e0c-45a4-9a86-50ff07d1ab99.png" width="400">
 2022/03/29 | <img src="https://user-images.githubusercontent.com/17468015/160640494-a1613424-c6b6-4768-9c05-5d7044edfa4e.png" width="400">
@@ -69,5 +88,6 @@
 2022/03/03 | <img src="https://user-images.githubusercontent.com/17468015/156570815-c8f6acda-5f82-4775-847b-cf9faa0b176b.png" width="400">
 2022/03/02 | <img src="https://user-images.githubusercontent.com/17468015/156365317-cbe508e8-363b-49f7-96c9-15006e0d1264.png" width="400">
 2022/03/01 | <img src="https://user-images.githubusercontent.com/17468015/156160566-10d4f5b2-e758-4540-be5f-04efa83ebdf8.png" width="400">
+</details>
 
 
