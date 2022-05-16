@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/16 | [자료구조: 힙(heap)의 개념과 구현](https://bumgeunsong.notion.site/Heap-da925d7007724cc096740450f71c1080)
 | 2022/05/15 | [자료구조의 실생활 적용: 어떤 자료 구조가 최선일까?](https://bumgeunsong.notion.site/fd3b002a71ee48479999260869d89f92)
 | 2022/05/12 | [Human Interface Guidlines 탐구하기](https://bumgeunsong.notion.site/Human-Interface-Guidelines-e46b633d547444d4b8e400e02211b716)
 | 2022/05/11 | [너의 MVC는 나의 MVC와 다르다](https://velog.io/@eddy_song/ios-mvc)
