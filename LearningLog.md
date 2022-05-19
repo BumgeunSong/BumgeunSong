@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/19 | [\[Firebase\] Firestore 데이터 구조 설계시 알아야할 것](https://bumgeunsong.notion.site/Cloud-Firestore-be0c8581086245e89e770bf45282c3bf)
 | 2022/05/18 | [\[Firebase\] Firestore DB의 기본 개념과 쿼리](https://bumgeunsong.notion.site/Cloud-Firestore-be0c8581086245e89e770bf45282c3bf)
 | 2022/05/16 | [자료구조: 힙(heap)의 개념과 구현](https://bumgeunsong.notion.site/Heap-da925d7007724cc096740450f71c1080)
 | 2022/05/15 | [자료구조의 실생활 적용: 어떤 자료 구조가 최선일까?](https://bumgeunsong.notion.site/fd3b002a71ee48479999260869d89f92)
