@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/20 | [\[Firebase\] Protocol, Generic으로 쿼리 계층 추상화하기](https://bumgeunsong.notion.site/Cloud-Firestore-be0c8581086245e89e770bf45282c3bf)
 | 2022/05/19 | [\[Firebase\] Firestore 데이터 구조 설계시 알아야할 것](https://bumgeunsong.notion.site/Cloud-Firestore-be0c8581086245e89e770bf45282c3bf)
 | 2022/05/18 | [\[Firebase\] Firestore DB의 기본 개념과 쿼리](https://bumgeunsong.notion.site/Cloud-Firestore-be0c8581086245e89e770bf45282c3bf)
 | 2022/05/16 | [자료구조: 힙(heap)의 개념과 구현](https://bumgeunsong.notion.site/Heap-da925d7007724cc096740450f71c1080)
