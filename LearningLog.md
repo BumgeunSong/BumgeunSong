@@ -3,6 +3,8 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/26 | [타입 검사, 타입의 분류, 정적 타입 언어의 장단점](https://bumgeunsong.notion.site/3a463417bab04ce9a99ba31f18955c07)
+| 2022/05/25 | [Apple MapKit의 Search 기능, 자동완성 기능 알아보기](https://bumgeunsong.notion.site/MapKit-Search-ce6990084af94f7681c9c7a441dd65a6)
 | 2022/05/24 | [XCTest의 한계와 Quick, Nimble을 활용한 Behavior-driven Testing](https://bumgeunsong.notion.site/XCTest-Quick-Nimble-Behavior-driven-Testing-cfc7a9e5e3f64a1db56fd3060da8f935)
 | 2022/05/23 | [Behavior Driven Development란 무엇인가? BDD의 철학](https://bumgeunsong.notion.site/BDD-BDD-7cd17c11cf214cbd8dde79e429294522)
 | 2022/05/21 | [다익스트라 알고리즘의 방법과 Swift 구현](https://bumgeunsong.notion.site/d6949c17d5a14ecb9cb880b49aee8f32)
