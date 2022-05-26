@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/27 | [if-else 대신 Strategy 패턴: 구조와 활용](https://bumgeunsong.notion.site/if-else-Strategy-b56d9e3fe03b47b3aec11c2cdfddb56a)
 | 2022/05/26 | [타입 검사, 타입의 분류, 정적 타입 언어의 장단점](https://bumgeunsong.notion.site/3a463417bab04ce9a99ba31f18955c07)
 | 2022/05/25 | [Apple MapKit의 Search 기능, 자동완성 기능 알아보기](https://bumgeunsong.notion.site/MapKit-Search-ce6990084af94f7681c9c7a441dd65a6)
 | 2022/05/24 | [XCTest의 한계와 Quick, Nimble을 활용한 Behavior-driven Testing](https://bumgeunsong.notion.site/XCTest-Quick-Nimble-Behavior-driven-Testing-cfc7a9e5e3f64a1db56fd3060da8f935)
