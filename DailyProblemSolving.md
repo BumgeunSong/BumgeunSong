@@ -4,4 +4,5 @@
 
 | 날짜 | 이름 | 배운 것 |
 | --- | --- | --- |
-| 2022/05/28 | [Grid Challenge](https://bumgeunsong.notion.site/Grid-Challenge-85473d6361c94f59972e8a7bf839537c) | 입력 크기에 따라 허용가능한 시간복잡도
+| 2022/05/28 | [Grid Challenge](https://bumgeunsong.notion.site/Grid-Challenge-5ef122ab0b86442ab5e8f935d924d180) | 입력 크기에 따라 허용가능한 시간복잡도
+| 2022/05/28 | [New Year Chaos](https://bumgeunsong.notion.site/Grid-Challenge-5ef122ab0b86442ab5e8f935d924d180) | 미해결
