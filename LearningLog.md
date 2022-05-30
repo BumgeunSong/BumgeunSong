@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/30 | [암달의 법칙 Amdahl’s Law](https://bumgeunsong.notion.site/Amdahl-s-Law-ab0a4b4421c044fb907ec52384779aa3)
 | 2022/05/29 | [단위 테스트를 해야하는 이유가 뭔데?](https://bumgeunsong.notion.site/3ea638e0e13846d2940575ef96d8772e)
 | 2022/05/27 | [if-else 대신 Strategy 패턴: 구조와 활용](https://bumgeunsong.notion.site/if-else-Strategy-b56d9e3fe03b47b3aec11c2cdfddb56a)
 | 2022/05/26 | [타입 검사, 타입의 분류, 정적 타입 언어의 장단점](https://bumgeunsong.notion.site/3a463417bab04ce9a99ba31f18955c07)
