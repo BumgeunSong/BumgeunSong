@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/05/30 | [쓰레드 레벨 병렬성, 인스트럭션 레벨 병렬성, SIMD 병렬성](https://bumgeunsong.notion.site/SIMD-9195b8dba5e74eb1a3fcb2ce785c252b)
 | 2022/05/30 | [암달의 법칙 Amdahl’s Law](https://bumgeunsong.notion.site/Amdahl-s-Law-ab0a4b4421c044fb907ec52384779aa3)
 | 2022/05/29 | [단위 테스트를 해야하는 이유가 뭔데?](https://bumgeunsong.notion.site/3ea638e0e13846d2940575ef96d8772e)
 | 2022/05/27 | [if-else 대신 Strategy 패턴: 구조와 활용](https://bumgeunsong.notion.site/if-else-Strategy-b56d9e3fe03b47b3aec11c2cdfddb56a)
