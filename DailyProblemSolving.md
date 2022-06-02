@@ -4,6 +4,7 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/06/02 | [주차 요금 계산](https://bumgeunsong.notion.site/8e208c02b8214791be4c104b4d210ec7) | 🥇 | dateFormat, round-up 연산
 | 2022/06/02 | [파일명 정렬](https://bumgeunsong.notion.site/a1bbfcadc3514308bd6b2887a1c1f8eb) | 🥇 | Character를 파싱할 때 유용한 isNumber, isLetter 등 
 | 2022/06/01 | [Longest Palindromic Substring](https://bumgeunsong.notion.site/Longest-Palindromic-Substring-9a2f53ef0de7467db6e5f68559b46fd3) | 🥉 | Substring이지만 Sliding window가 되지 않는 조건</br>Dynamic Programming을 이용한 회문 체크</br>대각선 방향 루프 돌기
 | 2022/05/31 | [Longest Substring Without Repeating](https://bumgeunsong.notion.site/Longest-Substring-Without-Repeating-Characters-b61a6fc96ad24722a64c40279f6562f5) | 🥇 | 연속적인 부분배열과 Summary 기준이 있을 때 </br>-> Sliding window 기법
