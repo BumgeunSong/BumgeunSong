@@ -18,6 +18,7 @@
   
   일자    |  Screenshot
   :-------:|:------------:
+  2022/06/02 | <img src="https://user-images.githubusercontent.com/17468015/171639859-88677ccd-161e-4556-a8f8-58fca5a8b3a8.png" width="400">
   2022/06/01 | <img src="https://user-images.githubusercontent.com/17468015/171392829-3ad22ced-bc49-4087-9c00-b6031160b727.png" width="400">
   
   
