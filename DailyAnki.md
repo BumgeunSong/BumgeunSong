@@ -18,7 +18,7 @@
   
   일자    |  Screenshot
   :-------:|:------------:
-    2022/06/04 | <img src="https://user-images.githubusercontent.com/17468015/172001239-161a940a-a568-4eb5-93e8-0db8356678d6.png" width="400">
+  2022/06/04 | <img src="https://user-images.githubusercontent.com/17468015/172001239-161a940a-a568-4eb5-93e8-0db8356678d6.png" width="400">
   2022/06/03 | <img src="https://user-images.githubusercontent.com/17468015/171861667-eb9fb98d-4f2c-4b3a-986b-d16aaaf0a2c6.png" width="400">
   2022/06/02 | <img src="https://user-images.githubusercontent.com/17468015/171639859-88677ccd-161e-4556-a8f8-58fca5a8b3a8.png" width="400">
   2022/06/01 | <img src="https://user-images.githubusercontent.com/17468015/171392829-3ad22ced-bc49-4087-9c00-b6031160b727.png" width="400">
