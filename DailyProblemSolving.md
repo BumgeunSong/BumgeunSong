@@ -4,8 +4,8 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
-| 2022/06/06 | [Odd-Even linked list](https://bumgeunsong.notion.site/Odd-Even-Linked-List-d9cd1441fca746f4b340277341a9931c) | 🎖 | `while let`으로 LinkedList에서 tail까지 탐색
-| 2022/06/06 | [Add Two Numbers](https://bumgeunsong.notion.site/Add-Two-Numbers-88b3a10102004f498984c66ab3156b2d) | 🎖 | 양쪽이 옵셔널일 때는 switch와 패턴 매칭을 사용해 경우의 수를 나눌 수 있음.
+| 2022/06/06 | [Odd-Even linked list](https://bumgeunsong.notion.site/Odd-Even-Linked-List-d9cd1441fca746f4b340277341a9931c) | 🥈 | `while let`으로 LinkedList에서 tail까지 탐색
+| 2022/06/06 | [Add Two Numbers](https://bumgeunsong.notion.site/Add-Two-Numbers-88b3a10102004f498984c66ab3156b2d) | 🥇 | 양쪽이 옵셔널일 때는 switch와 패턴 매칭을 사용해 경우의 수를 나눌 수 있음.
 | 2022/06/05 | [REST API: Top Articles](https://bumgeunsong.notion.site/REST-API-Top-Articles-db313221e17248769ac20348aa7556e9) | 🎖 | DispatchGorup을 이용한 연속적인 네트워크 요청
 | 2022/06/03 | [Increasing Triplet Subsequence](https://bumgeunsong.notion.site/Increasing-Triplet-Subsequence-1a8e81777ce040a8a77003b920ed19c4) | 🥉 | 비교할 최소값이 2개일 때 경우의 수</br>첫번째 최소값을 초기화했을 때 2번째 초기값 유지
 | 2022/06/02 | [주차 요금 계산](https://bumgeunsong.notion.site/8e208c02b8214791be4c104b4d210ec7) | 🥇 | dateFormat, round-up 연산
