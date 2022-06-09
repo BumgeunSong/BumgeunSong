@@ -4,7 +4,7 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
-| 2022/06/08 | [Kth Smallest Element in a BST](https://bumgeunsong.notion.site/Kth-Smallest-Element-in-a-BST-9485d24694464972a657674feadfba81) | 🥇 | Stack을 사용한 DFS 중간 멈춤 구현, BST의 삽입/삭제 최적화
+| 2022/06/08 | [Kth Smallest Element in a BST](https://bumgeunsong.notion.site/Kth-Smallest-Element-in-a-BST-9485d24694464972a657674feadfba81) | 🥇 | Stack을 사용한 DFS 중간 멈춤 구현, nodeCount를 통한 선택 범위 축소
 | 2022/06/07 | [Binary Tree from Preorder and Inorder Traversal](https://bumgeunsong.notion.site/Construct-Binary-Tree-from-Preorder-and-Inorder-Traversal-442cfbe1156241aba8bd0ee71d074f32) | 🥇 | Preorder에서는 맨 앞이 루트 값, Postorder에서는 맨 뒤가 루트값, Inorder에서는 루트를 제외한 왼쪽, 오른쪽이 각 서브트리의 Inorder
 | 2022/06/07 | [Zigzag Level Order Traversal](https://bumgeunsong.notion.site/Binary-Tree-Zigzag-Level-Order-Traversal-b69c887bca754341b4e70fc19b059718) | 🥈 | 지그재그로 순회할 때, 각 노드 값의 배열은 뒤집혀야 하지만, 자식 노드를 추가하는 순서는 뒤집히면 안 된다.
 | 2022/06/07 | [Inorder Traversal](https://bumgeunsong.notion.site/Binary-Tree-Inorder-Traversal-38ea1dc0783c4b58a7e4ad404299ea3f) | 🥇 | in-order: left 재귀 + 자기 자신 + right 재귀
