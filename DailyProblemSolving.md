@@ -4,6 +4,10 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/06/12 | [야영하기](https://bumgeunsong.notion.site/63822af2b147492b873257cd5423c4b2) | 🥇 | 4방면 방문 이외의 다른 옵션이 있는 BFS.</br>옵션에 따른 노드 정보를 업데이트하고 그대로 큐에 추가해서 해결.
+| 2022/06/12 | [요금제 찾기](https://bumgeunsong.notion.site/b3fbdbb52e7f4bc1aacd230b5475b6ba) | 🥇 | 해시테이블로 부분조합 O(1) 확인.</br>이진 검색 + upper bound
+| 2022/06/12 | [VIP 찾기](https://bumgeunsong.notion.site/VIP-644fcf77f916474f92613a3c9e48f3a7) | 🥇 | -
+| 2022/06/12 | [선택 정렬 (Selection Sort)](https://bumgeunsong.notion.site/Selection-Sort-0d65f67326e5408f8482c423aa3e44fe) | 🥇 | 선택 정렬 구현
 | 2022/06/11 | [Number of Islands](https://bumgeunsong.notion.site/Number-of-Islands-824a93d1e760476b8d3b64c456bcbeaf) | 🥇 | BFS로 그래프 탐색할 때 방문 처리 시점과 큐에서 꺼내는 시점의 차이.</br>좌표 튜플에 typeAlias 적용. dxdy를 사용한 4방면 루프</br>(최적화) grid 벗어나는 좌표 함수 호출 전에 예외 처리 -> 재귀 호출 최소화
 | 2022/06/10 | [Design LRU Cache](https://bumgeunsong.notion.site/Design-LRU-Cache-f16335a50ea746529c3ed41b6cdc32a2) | 🥈 | Doubly linked list 삽입, 삭제.</br>캐시 삭제시 Dictionary 조작.</br>Dummy node를 이용한 삽입 삭제 오퍼레이션 단순화
 | 2022/06/08 | [Kth Smallest Element in a BST](https://bumgeunsong.notion.site/Kth-Smallest-Element-in-a-BST-9485d24694464972a657674feadfba81) | 🥇 | Stack을 사용한 DFS 중간 멈춤 구현, nodeCount를 통한 선택 범위 축소
