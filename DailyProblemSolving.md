@@ -4,6 +4,7 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/06/13 | [Letter Combinations of a Phone Number](https://bumgeunsong.notion.site/Letter-Combinations-of-a-Phone-Number-b8c4bfd8d21242bfbdc1a3ba4816b063) | 🥇 | DFS 조합 만들기
 | 2022/06/12 | [야영하기](https://bumgeunsong.notion.site/63822af2b147492b873257cd5423c4b2) | 🥇 | 4방면 방문 이외의 다른 옵션이 있는 BFS.</br>옵션에 따른 노드 정보를 업데이트하고 그대로 큐에 추가해서 해결.
 | 2022/06/12 | [요금제 찾기](https://bumgeunsong.notion.site/b3fbdbb52e7f4bc1aacd230b5475b6ba) | 🥇 | 해시테이블로 부분조합 O(1) 확인.</br>이진 검색 + upper bound
 | 2022/06/12 | [VIP 찾기](https://bumgeunsong.notion.site/VIP-644fcf77f916474f92613a3c9e48f3a7) | 🥇 | -
