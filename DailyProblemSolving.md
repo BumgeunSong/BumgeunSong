@@ -4,6 +4,8 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/06/14 | [Subsets 부분집합 (조합)](https://bumgeunsong.notion.site/Subsets-319e0d82cc7c4f2eafabf523930680ac) | 🥇 | 전체 부분집합 = nCn + nCn-1 + … + nC0 (공집합)
+| 2022/06/14 | [Permutations 순열](https://bumgeunsong.notion.site/Permutations-a798f1e8b4c344d7be6f259474f44471) | 🥇 | 순열의 경우, pick을 뽑을 때 for문으로 전체를 뽑음. remain은 pick을 ‘제외한 배열'.
 | 2022/06/13 | [Letter Combinations of a Phone Number](https://bumgeunsong.notion.site/Letter-Combinations-of-a-Phone-Number-b8c4bfd8d21242bfbdc1a3ba4816b063) | 🥇 | DFS 조합 만들기
 | 2022/06/12 | [야영하기](https://bumgeunsong.notion.site/63822af2b147492b873257cd5423c4b2) | 🥇 | 4방면 방문 이외의 다른 옵션이 있는 BFS.</br>옵션에 따른 노드 정보를 업데이트하고 그대로 큐에 추가해서 해결.
 | 2022/06/12 | [요금제 찾기](https://bumgeunsong.notion.site/b3fbdbb52e7f4bc1aacd230b5475b6ba) | 🥇 | 해시테이블로 부분조합 O(1) 확인.</br>이진 검색 + upper bound
