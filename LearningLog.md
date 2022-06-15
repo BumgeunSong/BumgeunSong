@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/06/15 | [메모리 계층 구조 뽀개기 ](https://bumgeunsong.notion.site/8ffbe5a194444e59b4502eae34f21569)
 | 2022/06/12 | [Factory 패턴은 왜 쓰는가? Factory의 유형과 예시](https://bumgeunsong.notion.site/Factory-Factory-2ed4b5d57fd041cfa4898dbae82db6c2)
 | 2022/06/07 | [Swinject로 의존성 주입하기](https://bumgeunsong.notion.site/Swinject-7a682a4df4a048eca8b6b77b3523d310)
 | 2022/06/05 | [운영체제가 제공하는 3가지 추상화: 프로세스, 가상 메모리, 파일](https://bumgeunsong.notion.site/3-8936eb89104b4d17984553d500585dd9)
