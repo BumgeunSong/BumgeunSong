@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/06/18 | [Github secret으로 비밀정보 안전하게 저장하기)](https://bumgeunsong.notion.site/Secret-adf28d9cfda44cb5babe0812a02a4994)
 | 2022/06/16 | [딥 링크 (URL Scheme, Universal Link, Deferred Link)](https://bumgeunsong.notion.site/URL-Scheme-Universal-Link-Deferred-Link-4b55f87412c649ce8ff4e6c327706312)
 | 2022/06/15 | [메모리 계층 구조 뽀개기](https://bumgeunsong.notion.site/8ffbe5a194444e59b4502eae34f21569)
 | 2022/06/12 | [Factory 패턴은 왜 쓰는가? Factory의 유형과 예시](https://bumgeunsong.notion.site/Factory-Factory-2ed4b5d57fd041cfa4898dbae82db6c2)
