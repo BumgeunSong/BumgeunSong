@@ -4,6 +4,7 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/06/22 | [Search For a Range](https://bumgeunsong.notion.site/Search-For-a-Range-941f5da5d4b7440a85568cc47e675715) | 🥉 | 중복 정렬 배열에서 LowerBound, UpperBound 구하기.</br>lower Bound는 target과 '같은 수'가 처음 등장하는 인덱스. Upper Bound는 target보다 ‘큰 수'가 처음 등장하는 인덱스
 | 2022/06/16 | [Top K Frequent Elements](https://bumgeunsong.notion.site/Top-K-Frequent-Elements-7ff457a06ddd4fe0a3c713fc4cbf3e16) | 🥉 | 버킷 정렬을 적용해 O(n)으로 해결하기.</br>Top K 고를 때 Quick Select 알고리즘 응용하기
 | 2022/06/15 | [Word Search](https://bumgeunsong.notion.site/Word-Search-1f53a534de344b0fb718e89397a8a6fd) | 🥉 | 그래프 탐색 시 방문 배열 (visited) 초기화 시점 주의. 인접 노드를 확인할 때 이전 확인이 다음 확인의 방문 배열에 영향을 주지 않아야 함</br>백트래킹 조건 필터링은 노드를 Queue/Stack에 추가하기 ‘전’에 하는 것이 유리함.
 | 2022/06/14 | [Subsets 부분집합 (조합)](https://bumgeunsong.notion.site/Subsets-319e0d82cc7c4f2eafabf523930680ac) | 🥇 | 전체 부분집합 = nCn + nCn-1 + … + nC0 (공집합)
