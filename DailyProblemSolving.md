@@ -4,6 +4,7 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/06/30 | [Unique Paths](https://bumgeunsong.notion.site/Unique-Paths-3e04fb80198f4a1dbdd2a77ca28a018d) | 🥇 | - m,n에 도달하는 경로의 수를 f(m,n)이라고 할 때, `f(m,n) = f(m-1, n) + f(m, n-1)`
 | 2022/06/27 | [Find Peak Element](https://bumgeunsong.notion.site/Find-Peak-Element-7b043fba5aed43cbae5d1296bee9738f) | 🥇 | Peak 찾을 때 이진검색 응용 → 양쪽 이웃 중 더 큰 쪽이 peak가 있는 쪽</br>부등호 방향 통일
 | 2022/06/23 | [Search a 2D Matrix II](https://bumgeunsong.notion.site/Search-a-2D-Matrix-II-bea8f11bf67f4b1e84b2bddbe6a6e217) | 🥇 | Row, Column이 정렬된 매트릭스 → mid는 왼쪽 아래나 오른쪽 위. 이진 검색.
 | 2022/06/22 | [Search For a Range](https://bumgeunsong.notion.site/Search-For-a-Range-941f5da5d4b7440a85568cc47e675715) | 🥉 | 중복 정렬 배열에서 LowerBound, UpperBound 구하기.</br>lower Bound는 target과 '같은 수'가 처음 등장하는 인덱스. Upper Bound는 target보다 ‘큰 수'가 처음 등장하는 인덱스
