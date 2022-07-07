@@ -3,6 +3,11 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/07/07 | [RxSwift: Transforming Operator](https://bumgeunsong.notion.site/Transforming-Operator-a2c0ad2977124d9dbbd8742a5d79f6d9)
+| 2022/07/06 | [RxSwift: Filtering Operator](https://bumgeunsong.notion.site/Filtering-Operator-cb4e3b9d070f4e58b77784ae4886c018)
+| 2022/07/05 | [RxSwift: Subject, Relay, Trait](https://bumgeunsong.notion.site/Subject-Relay-Trait-902e24230901455d841b12fa7b10fb20)
+| 2022/07/04 | [Observable이란 무엇인가](https://bumgeunsong.notion.site/Observable-2fe397ab740e4339bdda1804013f74a5)
+| 2022/07/03 | [RxSwift의 용도와 3가지 핵심 개념](https://bumgeunsong.notion.site/RxSwift-3-253f71eb7d3c44fb95ab1ec7d70ee945)
 | 2022/06/26 | [iOS Networking (URLSession) + Protocol로 추상화하기](https://bumgeunsong.notion.site/iOS-Networking-URLSession-7180ef69053745b2a68325fc7ab8e896)
 | 2022/06/18 | [Github secret으로 비밀정보 안전하게 저장하기](https://bumgeunsong.notion.site/Secret-adf28d9cfda44cb5babe0812a02a4994)
 | 2022/06/16 | [딥 링크 (URL Scheme, Universal Link, Deferred Link)](https://bumgeunsong.notion.site/URL-Scheme-Universal-Link-Deferred-Link-4b55f87412c649ce8ff4e6c327706312)
