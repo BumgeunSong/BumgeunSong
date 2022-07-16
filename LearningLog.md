@@ -3,6 +3,8 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/07/16 | [메모리 계층과 캐싱 뽀개기](https://velog.io/@eddy_song/memory-hierarchy)
+| 2022/07/11 | [RxSwift: 스케쥴러](https://bumgeunsong.notion.site/Schedulers-cf9ec20c21424f5b9d12df6aa9aa596b)
 | 2022/07/09 | [RxSwift: 커스텀 Rx 익스텐션, RxCocoa 사용하기](https://bumgeunsong.notion.site/RxCocoa-e4b39a772eca436eb3ba9993951629b1)
 | 2022/07/08 | [RxSwift: Combining Operators](https://bumgeunsong.notion.site/Combining-Operators-6cc051c45dc645059070d581fc91cf97)
 | 2022/07/07 | [RxSwift: Transforming Operator](https://bumgeunsong.notion.site/Transforming-Operator-a2c0ad2977124d9dbbd8742a5d79f6d9)
