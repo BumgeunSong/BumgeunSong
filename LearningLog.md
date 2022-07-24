@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/07/24 | [시스템 프로그래밍의 핵심 개념](https://bumgeunsong.notion.site/1-059d1c5e269340a7b31a60f5cec813c9)
 | 2022/07/17 | [네트워크 보안, 암호화 알고리즘, 디지털 서명](https://bumgeunsong.notion.site/Secure-Networking-6e977aebab80489480772aea28225627)
 | 2022/07/16 | [메모리 계층과 캐싱 뽀개기](https://velog.io/@eddy_song/memory-hierarchy)
 | 2022/07/11 | [RxSwift: 스케쥴러](https://bumgeunsong.notion.site/Schedulers-cf9ec20c21424f5b9d12df6aa9aa596b)
