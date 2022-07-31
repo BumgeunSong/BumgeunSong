@@ -4,6 +4,9 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/07/31 | [Middle of the Linked List](https://bumgeunsong.notion.site/Middle-of-the-Linked-List-cca0c13e82044d969202d0db8acc7896) | 🥇 | fast & slow 포인터
+| 2022/07/31 | [Reverse Linked List](https://bumgeunsong.notion.site/Reverse-Linked-List-ce1c40b030d44119817119abb8779af7) | 🥇 | Current와 prev 위치 뒤집되, current의 next를 current로 재귀 호출
+| 2022/07/31 | [Merge Two Sorted Lists](https://bumgeunsong.notion.site/Merge-Two-Sorted-Lists-af4770434c9c48f68afbcc2172b5da11) | 🥇 | 재귀로 리스트 합치기
 | 2022/07/30 | [Is Subsequence](https://bumgeunsong.notion.site/Is-Subsequence-fe5e1048416142cd94f7af582dac7a75) | 🥇 | 투 포인터
 | 2022/07/30 | [Isomorphic Strings](https://bumgeunsong.notion.site/Isomorphic-Strings-a42d703403224d9fab12d0f396cc2946) | 🥇 | 애너그램류는 Hash table을 고려
 | 2022/07/30 | [Find Pivot Index](https://bumgeunsong.notion.site/Find-Pivot-Index-6a99669fa6854372864a79816954c6af) | 🥇 | 누적 합 배열을 통해 범위 합 구하기.
