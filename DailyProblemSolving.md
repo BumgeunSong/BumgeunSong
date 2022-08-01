@@ -4,6 +4,10 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/08/01 | [Balanced Binary Tree](https://bumgeunsong.notion.site/Balanced-Binary-Tree-b03b44b05bd3437db6abc7bc7d831295) | 🥇 | 트리 조작은 베이스 조건과 리턴 타입부터. 리턴 타입 옵셔널로 언밸런스 표현.
+| 2022/08/01 | [Longest Palindrome](https://bumgeunsong.notion.site/Longest-Palindrome-7a622717521049f393ea3d13603d3149) | 🥇 |  홀수일 경우 짝수로 만들고 싶을 때 → `( value / 2 ) * 2`
+| 2022/08/01 | [Best Time to Buy and Sell Stock](https://bumgeunsong.notion.site/Best-Time-to-Buy-and-Sell-Stock-d9961e8da51f48039155e15e72059e52) | 🥇 | 시계열에서 최소값 기록하기 (초기값은 맨 처음값)
+| 2022/08/01 | [Linked List Cycle 2](https://bumgeunsong.notion.site/Linked-List-Cycle-II-023ab1e20101433c81cd14d9fa0a5f0b) | 🥇 | 리스트 시작점 ~ 사이클 시작점 ==  포인터 교차점 ~ 사이클 시작점
 | 2022/07/31 | [Middle of the Linked List](https://bumgeunsong.notion.site/Middle-of-the-Linked-List-cca0c13e82044d969202d0db8acc7896) | 🥇 | fast & slow 포인터
 | 2022/07/31 | [Reverse Linked List](https://bumgeunsong.notion.site/Reverse-Linked-List-ce1c40b030d44119817119abb8779af7) | 🥇 | Current와 prev 위치 뒤집되, current의 next를 current로 재귀 호출
 | 2022/07/31 | [Merge Two Sorted Lists](https://bumgeunsong.notion.site/Merge-Two-Sorted-Lists-af4770434c9c48f68afbcc2172b5da11) | 🥇 | 재귀로 리스트 합치기
