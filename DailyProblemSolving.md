@@ -4,6 +4,10 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/08/02 | [Longest Substring Without Repeating Characters](https://bumgeunsong.notion.site/Longest-Substring-Without-Repeating-Characters-4f79939a62d44cfa8f06d6f07a509387) | 🥈 | 중복 검사는 set으로 O(n)이 아닌 O(1). string에 count를 사용해서 반복문을 돌면 O(n)으로 시간 초과 주의!
+| 2022/08/02 | [K Closest Points to Origin](https://bumgeunsong.notion.site/K-Closest-Points-to-Origin-f79953a77f7e4d88bdd8f877102185ba) | 🥇 | K번째 포인트가 아니라, 총 K개의 포인트를 return. K-th 문제는 quick select / heap
+| 2022/08/02 | [01 Matrix](https://bumgeunsong.notion.site/01-Matrix-f904fa5e47d6404fa4184a2a2bb47caa) | 🥉 | BFS를 1이 아닌 0에서 시작해야 함. root만 넣고 시작하는 게 아니라, 다른 0들도 넣고 시작을 하면 훨씬 더 많은 1을 확정할 수 있다.
+| 2022/08/02 | [Insert Interval](https://bumgeunsong.notion.site/Insert-Interval-36e8abf282494cf89a01d85cdebab462) | 🥈 | 겹치는 인터벌 합칠 때 min(start1, start2), max(end1, end). - 인터벌 합칠 때 꼭 해시 테이블로 빈도 카운트하고 0일 때 체크하는 방법만 써야하는 것은 아님. - 인터벌이 겹치는 경우와 안 겹치는 경우로 나눠서 생각해야 해결됨.
 | 2022/08/01 | [Balanced Binary Tree](https://bumgeunsong.notion.site/Balanced-Binary-Tree-b03b44b05bd3437db6abc7bc7d831295) | 🥇 | 트리 조작은 베이스 조건과 리턴 타입부터. 리턴 타입 옵셔널로 언밸런스 표현.
 | 2022/08/01 | [Longest Palindrome](https://bumgeunsong.notion.site/Longest-Palindrome-7a622717521049f393ea3d13603d3149) | 🥇 |  홀수일 경우 짝수로 만들고 싶을 때 → `( value / 2 ) * 2`
 | 2022/08/01 | [Best Time to Buy and Sell Stock](https://bumgeunsong.notion.site/Best-Time-to-Buy-and-Sell-Stock-d9961e8da51f48039155e15e72059e52) | 🥇 | 시계열에서 최소값 기록하기 (초기값은 맨 처음값)
