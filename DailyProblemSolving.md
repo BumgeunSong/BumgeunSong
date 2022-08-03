@@ -4,6 +4,8 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/08/03 | [Clone Graph](https://bumgeunsong.notion.site/Clone-Graph-165167f06bb04a60bb81c30b5d9b2419) | 🥉 | - visited를 방문 처리와 클론 저장을 동시에 할 수 있는 배열로 활용. - 인접 노드를 방문할 건지와 상관없이 현재 노드에 대한 복사는 해줘야 함. 양방향 그래프이기 때문에 방문한 노드라고 해서 이쪽 클론에 이웃이 추가돼 있는 게 아니기 때문.
+| 2022/08/03 | [3 Sum](https://bumgeunsong.notion.site/3um-0642c3535f774a9eb4486e900626e5a1) | 🥈 | - 정렬 + 투포인터로 투썸을 찾을 수 있다. (음수여도 마찬가지) - 중복된 배열을 제거해야하는 경우, Set으로 해결
 | 2022/08/02 | [Longest Substring Without Repeating Characters](https://bumgeunsong.notion.site/Longest-Substring-Without-Repeating-Characters-4f79939a62d44cfa8f06d6f07a509387) | 🥈 | 중복 검사는 set으로 O(n)이 아닌 O(1). string에 count를 사용해서 반복문을 돌면 O(n)으로 시간 초과 주의!
 | 2022/08/02 | [K Closest Points to Origin](https://bumgeunsong.notion.site/K-Closest-Points-to-Origin-f79953a77f7e4d88bdd8f877102185ba) | 🥇 | K번째 포인트가 아니라, 총 K개의 포인트를 return. K-th 문제는 quick select / heap
 | 2022/08/02 | [01 Matrix](https://bumgeunsong.notion.site/01-Matrix-f904fa5e47d6404fa4184a2a2bb47caa) | 🥉 | BFS를 1이 아닌 0에서 시작해야 함. root만 넣고 시작하는 게 아니라, 다른 0들도 넣고 시작을 하면 훨씬 더 많은 1을 확정할 수 있다.
