@@ -16,6 +16,15 @@
 ## 기록 
 
 <details>
+  <summary>8월</summary>
+
+  일자    |  Screenshot
+  :-------:|:------------:
+  2022/08/04 | <img src="https://user-images.githubusercontent.com/17468015/182878947-313ef85e-6e66-497b-9d77-d7ebfeed3951.png" width="400">
+  
+</details>
+
+<details>
   <summary>7월</summary>
   
   일자    |  Screenshot
