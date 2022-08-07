@@ -4,6 +4,10 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/08/07 | [Coin change](https://bumgeunsong.notion.site/Coin-Change-f958d6a849d64e338042e8f6cab75a1a) | 🥉 | - 큰 coin이 작은 coin의 정수배 이상인 일반 화폐 시스템의 경우에는 Greedy로 풀 수 있으나, 임의의 화폐 시스템인 경우는 DP로 풀어야 함. </br>DP로 풀 때, `minCoins(coins[0..m-1], V) = min {1 + minCoins(V-coin[i])}` where i varies from 0 to m-1 and coin[i] <= V
+| 2022/08/06 | [Implementing Trie](https://bumgeunsong.notion.site/Implementing-Trie-e6d074ba89a041c5ba1a348af0cb7337) | 🥇 | Trie 구조는 node에 key(글자)-value(links)를 저장. isEnd 프로퍼티로 prefix인지 아닌지 판단.
+| 2022/08/05 | [Course Schedule](https://bumgeunsong.notion.site/Course-Schedule-361fa372e58641f6828c1c39cdc0cc22) | 🥉 | 방향 그래프의 경우, 사이클 판별은 DFS.
+| 2022/08/04 | [Evaluate Reverse Polish Notation](https://bumgeunsong.notion.site/Evaluate-Reverse-Polish-Notation-f973cb51816c467e8933ab240fb4d1d1) | 🥇 | 후위 연산(Reverse Polish Notation)은 stack을 사용한다.
 | 2022/08/03 | [Clone Graph](https://bumgeunsong.notion.site/Clone-Graph-165167f06bb04a60bb81c30b5d9b2419) | 🥉 | - visited를 방문 처리와 클론 저장을 동시에 할 수 있는 배열로 활용. - 인접 노드를 방문할 건지와 상관없이 현재 노드에 대한 복사는 해줘야 함. 양방향 그래프이기 때문에 방문한 노드라고 해서 이쪽 클론에 이웃이 추가돼 있는 게 아니기 때문.
 | 2022/08/03 | [3 Sum](https://bumgeunsong.notion.site/3um-0642c3535f774a9eb4486e900626e5a1) | 🥈 | - 정렬 + 투포인터로 투썸을 찾을 수 있다. (음수여도 마찬가지) - 중복된 배열을 제거해야하는 경우, Set으로 해결
 | 2022/08/02 | [Longest Substring Without Repeating Characters](https://bumgeunsong.notion.site/Longest-Substring-Without-Repeating-Characters-4f79939a62d44cfa8f06d6f07a509387) | 🥈 | 중복 검사는 set으로 O(n)이 아닌 O(1). string에 count를 사용해서 반복문을 돌면 O(n)으로 시간 초과 주의!
