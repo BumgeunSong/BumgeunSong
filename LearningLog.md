@@ -4,8 +4,8 @@
 | 날짜 | Description |
 | --- | --- |
 | 2022/08/10 | [고급 파일 입출력: 벡터 입출력, epoll, 메모리 매핑, 입출력 스케쥴러, 비동기식 입출력](https://bumgeunsong.notion.site/4-24231cf35e3a4bf792be702720e1bb78)
+| 2022/08/07 | [C 언어 기초: C 자료형, 배열, 포인터](https://bumgeunsong.notion.site/C-1f526cba83c7464987df904e33f391ba)
 | 2022/08/05 | [표준 파일 입출력: C 라이브러리, 버퍼 입출력](https://bumgeunsong.notion.site/3-bd9e31d3e823476782613b9ba9cd8565)
-| 2022/08/03 | [파일 입출력: Read, Write의 동작 방식, 가상 파일 시스템, 다중 입출력](https://www.notion.so/bumgeunsong/2-bfaaea1a637e45c89d9c648cb7ff97b7)
 | 2022/08/03 | [파일 입출력: Read, Write의 동작 방식, 가상 파일 시스템, 다중 입출력](https://www.notion.so/bumgeunsong/2-bfaaea1a637e45c89d9c648cb7ff97b7)
 | 2022/07/24 | [시스템 프로그래밍의 핵심 개념](https://bumgeunsong.notion.site/1-059d1c5e269340a7b31a60f5cec813c9)
 | 2022/07/17 | [네트워크 보안, 암호화 알고리즘, 디지털 서명](https://bumgeunsong.notion.site/Secure-Networking-6e977aebab80489480772aea28225627)
