@@ -4,6 +4,11 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/08/12 | [Search in Rotated Sorted Array](https://bumgeunsong.notion.site/Search-in-Rotated-Sorted-Array-70312d9df38440fab20617145e0c2732) | 🥉 | low, high의 대소 관계가 아닌, mid의 위치를 가지고 분기해야 함. mid를 비교한 후, 오른쪽 끝을 비교하면 가야할 방향을 정할 수 있음.
+| 2022/08/11 | [Rotting Oranges](https://www.notion.so/bumgeunsong/Rotting-Oranges-a064850beae84982a7963a937de729cc) | 🥈 | 시작 지점(root)가 여러개인 BFS도 존재함. Depth를 체크하기 위해 Level-order traversal 활용.
+| 2022/08/10 | [Validate Binary Search Tree](https://bumgeunsong.notion.site/Validate-Binary-Search-Tree-a3213386961a4d18a7c53edd5f69e6b6) | 🥇 | BST 유효성을 확인할 때는 low, high 인자를 재귀호출로 넘긴다. 
+| 2022/08/09 | [Min Stack](https://bumgeunsong.notion.site/Min-Stack-d4a557b21fb04a358678326420035d20) | 🥇 | 최소값을 유지하는 스택, 입력 순서를 유지하는 스택을 2개 만들기
+| 2022/08/08 | [Product of Array Except self](https://bumgeunsong.notion.site/Product-of-Array-Except-self-3aaa0218542b43128edb80df76ddc18a) | 🥈 | 누적합과 비슷하게 누적곱도 미리 계산해두고 효율적인 연산 가능
 | 2022/08/07 | [Coin change](https://bumgeunsong.notion.site/Coin-Change-f958d6a849d64e338042e8f6cab75a1a) | 🥉 | - 큰 coin이 작은 coin의 정수배 이상인 일반 화폐 시스템의 경우에는 Greedy로 풀 수 있으나, 임의의 화폐 시스템인 경우는 DP로 풀어야 함. </br>DP로 풀 때, `minCoins(coins[0..m-1], V) = min {1 + minCoins(V-coin[i])}` where i varies from 0 to m-1 and coin[i] <= V
 | 2022/08/06 | [Implementing Trie](https://bumgeunsong.notion.site/Implementing-Trie-e6d074ba89a041c5ba1a348af0cb7337) | 🥇 | Trie 구조는 node에 key(글자)-value(links)를 저장. isEnd 프로퍼티로 prefix인지 아닌지 판단.
 | 2022/08/05 | [Course Schedule](https://bumgeunsong.notion.site/Course-Schedule-361fa372e58641f6828c1c39cdc0cc22) | 🥉 | 방향 그래프의 경우, 사이클 판별은 DFS.
