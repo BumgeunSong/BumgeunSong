@@ -20,6 +20,7 @@
 
   일자    |  Screenshot
   :-------:|:------------:
+  2022/08/13 | <img src="https://user-images.githubusercontent.com/17468015/184495514-8356aad7-5a22-49f9-b174-28bba9c1efce.png" width="400">
   2022/08/06 | <img src="https://user-images.githubusercontent.com/17468015/183248544-cd4c0c45-ea91-4655-819c-4c8891f28f82.png" width="400">
   2022/08/04 | <img src="https://user-images.githubusercontent.com/17468015/182878947-313ef85e-6e66-497b-9d77-d7ebfeed3951.png" width="400">
   
