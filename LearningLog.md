@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/08/14 | [시스템 콜은 운영체제의 '프론트 데스크'다](https://velog.io/@eddy_song/system-call)
 | 2022/08/10 | [고급 파일 입출력: 벡터 입출력, epoll, 메모리 매핑, 입출력 스케쥴러, 비동기식 입출력](https://bumgeunsong.notion.site/4-24231cf35e3a4bf792be702720e1bb78)
 | 2022/08/05 | [표준 파일 입출력: C 라이브러리, 버퍼 입출력](https://bumgeunsong.notion.site/3-bd9e31d3e823476782613b9ba9cd8565)
 | 2022/08/03 | [파일 입출력: Read, Write의 동작 방식, 가상 파일 시스템, 다중 입출력](https://www.notion.so/bumgeunsong/2-bfaaea1a637e45c89d9c648cb7ff97b7)
