@@ -4,6 +4,7 @@
 
 | 날짜 | 이름 | 결과 | 배운 것 |
 | --- | --- | --- | --- |
+| 2022/08/14 | [Combination Sum](https://bumgeunsong.notion.site/Combination-Sum-a0efd9a40d1e40bc83a06cb337f056da) | 🥇 | 여러번 뽑을 수 있는 조합이라 하더라도, 중복을 없애기 위해서는 pick 이후의 배열로 remain을 구성해야 함. (조합의 경우 pick 뒤의 배열이 remain, 순열의 경우 pick만 제외한 배열이 remain)
 | 2022/08/12 | [Search in Rotated Sorted Array](https://bumgeunsong.notion.site/Search-in-Rotated-Sorted-Array-70312d9df38440fab20617145e0c2732) | 🥉 | low, high의 대소 관계가 아닌, mid의 위치를 가지고 분기해야 함. mid를 비교한 후, 오른쪽 끝을 비교하면 가야할 방향을 정할 수 있음.
 | 2022/08/11 | [Rotting Oranges](https://www.notion.so/bumgeunsong/Rotting-Oranges-a064850beae84982a7963a937de729cc) | 🥈 | 시작 지점(root)가 여러개인 BFS도 존재함. Depth를 체크하기 위해 Level-order traversal 활용.
 | 2022/08/10 | [Validate Binary Search Tree](https://bumgeunsong.notion.site/Validate-Binary-Search-Tree-a3213386961a4d18a7c53edd5f69e6b6) | 🥇 | BST 유효성을 확인할 때는 low, high 인자를 재귀호출로 넘긴다. 
