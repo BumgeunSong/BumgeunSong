@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/08/19 | [고급 프로세스 관리, 스케줄링, 우선순위, 실시간 프로세스](https://bumgeunsong.notion.site/6-b5782a8a208d4352bc7957287bd72f31)
 | 2022/08/17 | [프로세스, 가상화된 프로세서, 프로세스 생성(fork), 실행(exec), 종료(wait)](https://bumgeunsong.notion.site/5-7dfcfa8b564d4298a30d5ab85509f075)
 | 2022/08/14 | [시스템 콜은 운영체제의 '프론트 데스크'다](https://velog.io/@eddy_song/system-call)
 | 2022/08/10 | [고급 파일 입출력: 벡터 입출력, epoll, 메모리 매핑, 입출력 스케쥴러, 비동기식 입출력](https://bumgeunsong.notion.site/4-24231cf35e3a4bf792be702720e1bb78)
