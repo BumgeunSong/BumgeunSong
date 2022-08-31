@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/08/31 | [프로세스들과 바람피는 운영체제](https://velog.io/@eddy_song/process)
 | 2022/08/29 | [스레드 동기화, 뮤텍스, 리눅스 스레드](https://bumgeunsong.notion.site/8-2ef3523f9523499780f95c04e56e4646)
 | 2022/08/25 | [스레드, 스레딩 모델, 스레딩 패턴](https://www.notion.so/bumgeunsong/7-ecf3b07a3e834f2585a7af63cf0cdf90)
 | 2022/08/23 | [사용자/그룹, 세션, 데몬](https://bumgeunsong.notion.site/2-c1c5ab32008247e28689718f02a20adf)
