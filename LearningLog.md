@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/09/07 | [Dependency Injection의 효용과 비용](https://www.notion.so/bumgeunsong/2-DI-c6cacae089bf472d83f6822502f21741)
 | 2022/09/06 | [UI 업데이트를 쉽게, Diffable Data Source (+RxDataSource)](https://www.notion.so/bumgeunsong/UI-Diffable-Data-Source-RxDataSource-b4bad8ed2db4471e86c8dc8a42ef5767)
 | 2022/09/04 | [의존성 주입(DI) 기본: 이유, 예시, 구현](https://www.notion.so/bumgeunsong/DI-Chapter-1-Basics-a43eba5908124ef688b14026720d8045)
 | 2022/08/31 | [프로세스들과 바람피는 운영체제](https://velog.io/@eddy_song/process)
