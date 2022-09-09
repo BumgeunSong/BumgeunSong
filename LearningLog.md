@@ -3,6 +3,7 @@
 
 | 날짜 | Description |
 | --- | --- |
+| 2022/09/09 | [의존성 주입 패턴 (1) Composition Root](https://bumgeunsong.notion.site/4-DI-Patterns-Composition-Root-4f099946fb624d439d1a4bf8e47c373d)
 | 2022/09/08 | [WebKit을 사용한 JavaScript ↔ Swift 통신](https://bumgeunsong.notion.site/WebKit-JavaScript-Swift-888c7d796d884dcf82b0d4d1f36d128e)
 | 2022/09/07 | [Dependency Injection의 효용과 비용](https://bumgeunsong.notion.site/2-DI-c6cacae089bf472d83f6822502f21741)
 | 2022/09/06 | [UI 업데이트를 쉽게, Diffable Data Source (+RxDataSource)](https://www.notion.so/bumgeunsong/UI-Diffable-Data-Source-RxDataSource-b4bad8ed2db4471e86c8dc8a42ef5767)
