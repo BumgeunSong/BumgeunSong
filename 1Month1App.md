@@ -75,7 +75,7 @@
 
 # 프로젝트
 
-## 1월 
-[AInstgram](https://github.com/BumgeunSong/AInstagram)https://github.com/BumgeunSong/AInstagram
+## 1월 [AInstgram](https://github.com/BumgeunSong/AInstagram)
+
 - SwiftUI
 - Firebase
