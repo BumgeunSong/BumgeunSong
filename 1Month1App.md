@@ -72,3 +72,10 @@
 - 채팅 앱 클론
 - 커머스 앱 클론
 - 내 콘텐츠 아카이브 홈페이지 만들기
+
+# 프로젝트
+
+## 1월 
+[AInstgram](https://github.com/BumgeunSong/AInstagram)https://github.com/BumgeunSong/AInstagram
+- SwiftUI
+- Firebase
