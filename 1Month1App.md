@@ -75,6 +75,8 @@
 
 # 프로젝트
 
+1️⃣ [1월 - Ainstagram (iOS)](https://github.com/BumgeunSong/BumgeunSong/blob/main/1_Ainstagram_iOS.md)
+
 ## 1월 [AInstgram](https://github.com/BumgeunSong/AInstagram)
 
 - SwiftUI
